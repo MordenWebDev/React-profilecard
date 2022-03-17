@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-profilecard/static/css/main.da931015.css",
+    "main.js": "/React-profilecard/static/js/main.35bf422d.js",
+    "index.html": "/React-profilecard/index.html",
+    "main.da931015.css.map": "/React-profilecard/static/css/main.da931015.css.map",
+    "main.35bf422d.js.map": "/React-profilecard/static/js/main.35bf422d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da931015.css",
+    "static/js/main.35bf422d.js"
+  ]
+}
